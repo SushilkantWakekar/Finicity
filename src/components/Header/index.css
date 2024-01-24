@@ -1,0 +1,31 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  width: 99vw;
+  align-items: center;
+  position: relative; 
+ 
+ 
+}
+.logo-container{
+  margin-left: 20px;
+  font-size: 25px;
+}
+.nav-items{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #25282B;
+  ;
+}
+
+.nav-menu{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 20px;
+  font-weight: 500;
+}
