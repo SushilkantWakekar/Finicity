@@ -13,6 +13,22 @@
     
     
 }   
+@media screen and (max-width: 767px) {
+    .home-container{
+        flex-direction: column;
+        
+    }
+
+    .image-container{
+        display: none;
+    }
+
+    .info-container{
+        width: 100vw;
+       height: 50vh;
+    }
+    
+}
 
 .info-container{
     width: 50vw;

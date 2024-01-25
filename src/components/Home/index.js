@@ -17,8 +17,7 @@ const Home = () => {
             </div>
             <div className="image-container">
            
-            </div>
-            
+            </div>    
         </div>
        
     )
